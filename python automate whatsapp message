@@ -1,4 +1,0 @@
-
-import pywhatkit
-
-pywhatkit.sendwhatmsg('+********', 'im looking in the ocean, where is my whales', 21, 40)

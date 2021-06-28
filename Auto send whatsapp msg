@@ -1,0 +1,4 @@
+
+import pywhatkit
+
+pywhatkit.sendwhatmsg('+1********0', 'Hey this message is automated, you dont have to reply it', 21, 40)
